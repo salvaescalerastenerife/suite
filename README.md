@@ -1,5 +1,3 @@
-# Canarias Accesible Suite Lab v0.1
+# Canarias Accesible Suite Lab v0.2
 
-Primera maqueta del armazón unificado. Incluye interfaz PWA, cambio de vista por rol, indicador de conexión, esquema SQL inicial de Supabase y plan de implantación.
-
-No sustituye todavía ninguna app actual ni contiene credenciales de Supabase.
+Versión de laboratorio independiente. Incluye 2.012 instalaciones reales, buscador, ficha única, mapa y borrador local de parte. No está conectada aún a Supabase y no sustituye las apps actuales.
